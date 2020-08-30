@@ -1,7 +1,7 @@
 # blaya
 A collection of scripts which enable UI features similar to Maya in Blender 2.8+
 
-# Maya-Pie Menus for modelling:
+# Maya-Pie Menus for 3D modeling:
 ![Pie-Menu](https://user-images.githubusercontent.com/50917034/91654394-8ed5c100-eaa8-11ea-9ab6-93842552ad7a.gif)
 
 ## How to intall:
